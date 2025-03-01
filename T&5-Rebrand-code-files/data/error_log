@@ -1,0 +1,5 @@
+[19-Nov-2022 18:15:48 UTC] PHP Warning:  Use of undefined constant JSON_uNESCAPED_UNICODE - assumed 'JSON_uNESCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/i51wgflz3mav/public_html/aau/ixd608/chang.karen/data/api.php on line 17
+[19-Nov-2022 18:15:48 UTC] PHP Warning:  A non-numeric value encountered in /home/i51wgflz3mav/public_html/aau/ixd608/chang.karen/data/api.php on line 17
+[19-Nov-2022 18:15:48 UTC] PHP Warning:  Division by zero in /home/i51wgflz3mav/public_html/aau/ixd608/chang.karen/data/api.php on line 17
+[19-Nov-2022 18:15:48 UTC] PHP Warning:  json_encode() expects parameter 2 to be int, float given in /home/i51wgflz3mav/public_html/aau/ixd608/chang.karen/data/api.php on line 17
+[19-Nov-2022 18:19:06 UTC] PHP Warning:  Use of undefined constant breake - assumed 'breake' (this will throw an Error in a future version of PHP) in /home/i51wgflz3mav/public_html/aau/ixd608/chang.karen/data/api.php on line 17
